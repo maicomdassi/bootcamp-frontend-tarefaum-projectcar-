@@ -1,13 +1,12 @@
 import './assets/styles/custom.scss';
 import './App.css';
-import Navbar from 'components/Navbar';
+
+import Routes from 'Routes';
+
 
 function App() {
    return (
-      <>
-        <Navbar/>
-        <h1>teste</h1>
-      </>
+      <Routes/>
    );
 }
 

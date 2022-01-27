@@ -1,0 +1,17 @@
+.find-container {
+  height: 86px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.row {
+  padding-top: 20px;
+}
+.input-group input {
+  font-size: 14px;
+  height: 40px;
+}
+.input-group button {
+  font-size: 14px;
+  height: 40px;
+}

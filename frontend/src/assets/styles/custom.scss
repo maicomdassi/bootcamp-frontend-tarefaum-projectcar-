@@ -3,6 +3,16 @@ $theme-colors: (
   'secondary': #F78B00,
 );
 
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1280px,
+  xxl: 1400px
+);
+
+
 $body-bg: #fff;
 $body-color: #263238;
 
